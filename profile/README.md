@@ -13,7 +13,7 @@ We don't execute your workflows. We make them ready to run.
 ## What We Build
 
 **[cromus.ai](https://cromus.ai)** — The Workflow Intelligence 
-platform. Paste a SOP, get a validated SKILL.md file. Simulate cost 
+platform. Paste or upload a SOP, get a validated SKILL.md file. Simulate cost 
 across 25 verified AI models across 7 providers. Score workflows with 
 Croms™ before they run. Build governance into the spec, not the 
 afterthought.
